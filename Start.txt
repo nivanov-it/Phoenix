@@ -1,1 +1,1 @@
-Invoke-Expression "& { $(Invoke-RestMethod https://github.com/nivanov-it/Phoenix/raw/main/Hello.ps1) }"
+Invoke-Expression "& { $(Invoke-RestMethod https://github.com/nivanov-it/Phoenix/raw/main/Start.ps1) }"
